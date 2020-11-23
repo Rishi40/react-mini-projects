@@ -1,6 +1,6 @@
 ## react-mini-projects
 
-#Steps to reproduce a project in your local machine:
+Steps to reproduce a project in your local machine:
 
 1. Navigate to any project folder that you wish, through the CLI 
 e.g cd 1-birthday-reminder
